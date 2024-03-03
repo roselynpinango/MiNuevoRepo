@@ -1,6 +1,6 @@
 # MiNuevoRepo
 
-Ejemplo de Proyecto utilizado Git y GitHub
+Ejemplo de Proyecto utilizado Git y GitHub (actualizado)
 
 ## Instalación
 
